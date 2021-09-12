@@ -1,1 +1,23 @@
-[{"id":"22208cea-13fc-4193-a0f8-cb1889aedb5b","name":"Model 3","releaseYear":2020,"available":true,"gasAvailable":true},{"id":"c2bce225-d8c2-4060-933f-dd911a127f7c","name":"Cruze","releaseYear":2021,"available":true,"gasAvailable":true},{"id":"dc535e1f-0130-4b72-8f6a-991e17c9d473","name":"Accord","releaseYear":2021,"available":true,"gasAvailable":true}]
+[
+    {
+        "id": "e749f51b-77ed-4bea-a283-98ebc1cb5433",
+        "name": "Fiesta",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "aa073f4f-ddf7-4858-a904-e3a8deb798e4",
+        "name": "Impala",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "9140a762-636d-4b5f-aac4-3cc01420c763",
+        "name": "Malibu",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    }
+]
